@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<title> EXERCÍCIOS 04 - CSS: ESTILIZAÇÃO DE TEXTOS E 	PSEUDOELEMENTOS
+	</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head> 
+<body>
+
+			<b>Questão 01.</b> Criar uma regra CSS para formatação de parágrafos utilizando as seguintes configurações:</br>
+	
+	<h1>
+		<p>
+		Não importa onde você parou,
+		em que momento da vida você cansou,
+		o que importa é que sempre é possível
+		e necessário "Recomeçar".
+
+		Recomeçar é dar uma nova
+		chance a si mesmo.
+		É renovar as esperanças na vida
+		e o mais importante:
+		acreditar em você de novo.
+
+		Sofreu muito nesse período?
+		Foi aprendizado.
+		</p>
+
+	</h1>
+
+<a href="linque1" class="linque1">Link em estado inicial sem sublinhado. </a></br>
+
+<a href="linque2" class="linque2"> Link em estado inicial com sublinhado acima do texto, em estado ativo comum a linha passando ao meio do texto, e em estado visitado com sublinhado abaixo do texto. </a></br>
+
+<a href="linque3" class="linque3"> Link em estado inicial na cor laranja e em estado hover na corver de e sublinhado. </a></br>
+
+<a href="linque4" class="linque4"> Link em estado inicial com bordas com estilo solida e cor azul, fundo preto e cor da fonte 
+branco; e em estado hover com bordas com estilo pontilhadas e cor preto, fundo branco e cor da fonte preto </a></br>
+
+<a href="linque5" class="linque5"> Link em estado inicial de cor vermelha; estado visitado em itálico e negrito na cor laranja; estado hover sublinhado, eq uando o usuário clicar no link a cor deverá ser amarelo. </a></br>
+
+</body>
+
+</html>
